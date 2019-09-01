@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+  {% include nfcHEAD.html %}
+  <body>
+    <button onclick="goBack()">Go Back</button>
+        <script>
+          function goBack() {
+            window.history.back();
+          }
+        </script>
+    <div class="page-content">
+      <div class="wrapper">
+        <a href="/NFCoding/"><img src="https://github.com/djtravz/djtravz.github.io/blob/master/NFCoding/Logo%20-%20NFCoding.png?raw=true"></a>
+        {{ content }}
+      </div>
+    </div>
+   
+
+
+  </body>
+
+</html>
