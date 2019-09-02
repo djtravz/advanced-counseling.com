@@ -8,7 +8,7 @@
 # Site settings
 title: Advanced Counceling
 email: EMAIL
-description: > This website is the website for the counseling service in PA PLEASE CHANGE THIS LATER TO SOMETHING BETTER BECAUSE THIS WILL APPEAR ON GOOGLE ONCE THE SITE IS LIVE AND SEARCHED FOR # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.advanced-counseling.com/" # the base hostname & protocol for your site
 twitter_username:
